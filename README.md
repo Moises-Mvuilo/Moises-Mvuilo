@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=250&color=gradient&text=MOISES%20MVUILO&textBg=false&section=header&reversal=false&animation=fadeIn">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=MOISES%20MVUILO&reversal=false&textBg=false&fontAlignY=50&fontAlign=50&animation=scaleIn">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&width=1650&lines=Bem-vindos+ao+meu+perfil+!;Sou+Programador+e+T%C3%A9cnico+de+Rede+de+computadores%2C+estou+disposto+para+qualquer+colabora%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
