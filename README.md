@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=MOISES%20MVUILO&reversal=true&descAlign=79">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=250&color=gradient&text=MOISES%20MVUILO&textBg=false&section=header&reversal=false&animation=fadeIn">
 
 ## Formação e Educação:
 - **Engenharia Informática**
