@@ -16,7 +16,7 @@
 
 ## Meus projetos:
 ### Projetos em grupo na Escola DNC
-### Projeto Landing page de Arquitetura https://docs.google.com/spreadsheets/d/1OGrqPpMhPXoq6CqdsvTu5t8GIOAS4GTzHJK3NNdM3eE/edit?gid=0#gid=0
+### Projeto Landing page de Arquitetura https://incredible-alfajores-c9461b.netlify.app 
 
 
 
