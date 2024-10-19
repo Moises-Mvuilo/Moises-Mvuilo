@@ -1,10 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=MOISES%20MVUILO&reversal=true&descAlign=79">
 
-## Formacao academica:
-- **Business mn**
-  -Master's Management and Strategy - 2024 - 2025
+## Formação e Educação:
+- **Engenharia Informática**
+  - Licenciado - 2014 à 2017
+  - Instituto Superior Politécnico do Cazenga (ISPOCA) em Luanda-Angola
 
-- **UNIFEI**- CCO - 2024 - 2025
+- **Desenvolvedor Front-End**
+  - Escola DNC em Brasil - 2024 à 2025
 
 
 ## Minhas ferramentas:
@@ -13,7 +15,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Meus projetos:
-### Pouso autonomo de drones utilizado TAGS de realidade aumentada
-Algoritmo para de um drone inteligente em uma plataforma em movimento, a localizacao de tecnologia de localizacao
+### Projetos em grupo na Escola DNC
+### Projeto Landing page de Arquitetura https://docs.google.com/spreadsheets/d/1OGrqPpMhPXoq6CqdsvTu5t8GIOAS4GTzHJK3NNdM3eE/edit?gid=0#gid=0
+
 
 
