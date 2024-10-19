@@ -31,8 +31,8 @@
 
    - Meus contactos :
       - Tel.: +351915143745
-      - facebook: Moisés Mvuilo
-      - Linkedin: Matukondele-mvuilo
+      - ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white): Moises Mvuilo
+      - L![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): Matukondele-mvuilo
 
 
 
