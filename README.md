@@ -38,8 +38,10 @@
       Muito obrigado por consultar o meu perfil, e faça sempre isto quando quizer !
 
    - Meus contactos :
-      -  Tel.: Portugal (+351) 915 143 745  || Angola (+244) 922 265 979
+     
+      -  Telefone: Portugal (+351) 915 143 745  || Angola (+244) 922 265 979
      ________________________________________________________________________________________________
+     
       - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matukondele-mvuilo-187906329/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]( https://www.instagram.com/mvuilo_moises/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://https://facebook.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
     
     
