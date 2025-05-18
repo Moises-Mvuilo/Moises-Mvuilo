@@ -9,7 +9,7 @@
   - Licenciado - 2014 à 2017, no Instituto Superior Politécnico do Cazenga (ISPOCA) em Luanda-Angola
 
 - **Desenvolvedor Front-End**
-  - Escola DNC em Brasil - 2024 à 2025
+  - Escola DNC em Brasil - 2024 a 2025
 
 - **Técnico de Rede de computadores**
     - Curso de CCNA no Instituto de Telecomunicações (ITEL) Angola
@@ -33,13 +33,13 @@
 
 ## Meus projetos:
  - Projetos em grupo na Escola DNC
- -  Participei no projeto de criação de um site de gamificação e gerênciamento de pontuação da PLUGOWTECH em Brasil
+ -  Participei no projeto de criação de um site de gamificação e gerenciamento de pontuação da PLUGOWTECH em Brasil
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moises-mvuilo&show_icons=true&theme=radical)
 
 ## Agradecimento:
 
-      Muito obrigado por consultar o meu perfil, e faça sempre isto quando quizer !
+      “Muito obrigado por visitar meu perfil! Sinta-se à vontade para voltar sempre que quiser.”
 
    - Meus contactos :
      
