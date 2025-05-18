@@ -32,6 +32,8 @@
  - Projetos em grupo na Escola DNC
  -  Participei no projeto de criação de um site de gamificação e gerênciamento de pontuação da PLUGOWTECH em Brasil
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 ## Agradecimento:
 
       Muito obrigado por consultar o meu perfil, e faça sempre isto quando quizer !
