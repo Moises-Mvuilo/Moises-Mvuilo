@@ -4,7 +4,7 @@
 
 ## Formação e Educação:
 
-- **Engenharia Informática**
+- ***Engenharia Informática**
   - Licenciado - 2014 à 2017
   - Instituto Superior Politécnico do Cazenga (ISPOCA) em Luanda-Angola
 
