@@ -37,6 +37,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moises-mvuilo&show_icons=true&theme=radical)
 
+## Idiomas
+  * Português (falado e escrito)
+  * Francês (falado e escrito)
+  * Inglês técnivo (noções básicas)
+
 ## Agradecimento:
 
       “Muito obrigado por visitar meu perfil! Sinta-se à vontade para voltar sempre que quiser.”
