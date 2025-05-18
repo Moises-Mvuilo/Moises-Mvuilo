@@ -31,7 +31,7 @@
  - Projetos em grupo na Escola DNC
  -  Participei no projeto de criação de um site de gamificação e gerênciamento de pontuação da PLUGOWTECH em Brasil
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moises-mvuilo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moises-mvuilo&layout=pie)](https://github.com/moises-mvuilo/github-readme-stats)
 
 ## Agradecimento:
 
