@@ -4,10 +4,11 @@
 
  <h2 align="center">Profissional de TI, apaixonado por tecnologia, inovação e soluções que transformam vidas</h2>
 
+
 ## Formação e Educação:
 
 - Formado em Engenharia Informática**
-  - Licenciado - 2014 à 2017, no Instituto Superior Politécnico do Cazenga (ISPOCA) em Luanda-Angola
+  - Licenciado - 2014 a 2017, no Instituto Superior Politécnico do Cazenga (ISPOCA) em Luanda-Angola
 
 - **Desenvolvedor Front-End**
   - Escola DNC em Brasil - 2024 a 2025
