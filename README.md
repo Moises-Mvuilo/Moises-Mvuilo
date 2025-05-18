@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&width=1650&lines=Bem-vindos+ao+meu+perfil+!;Sou+Programador+e+T%C3%A9cnico+de+Rede+de+computadores%2C+estou+disposto+para+qualquer+colabora%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
- <h1 align="center">Sou Profissional de TI, apaixonado por tecnologia, inovação e soluções que transformam vidas</h1>
+ <h2 align="center">Sou Profissional de TI, apaixonado por tecnologia, inovação e soluções que transformam vidas</h2>
 
 ## Formação e Educação:
 
