@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&width=1650&lines=Bem-vindos+ao+meu+perfil+!;Sou+Programador+e+T%C3%A9cnico+de+Rede+de+computadores%2C+estou+disposto+para+qualquer+colabora%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 ## Formação e Educação:
--*** Sou Profissional de Tecnologia de Informação
-- ** Formado em Engenharia Informática**
+- Sou Profissional de Tecnologia de Informação
+- Formado em Engenharia Informática**
   - Licenciado - 2014 à 2017
   - Instituto Superior Politécnico do Cazenga (ISPOCA) em Luanda-Angola
 
