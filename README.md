@@ -38,7 +38,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moises-mvuilo&show_icons=true&theme=radical)
 
 ## Idiomas
-  * Português (falado e escrito)
+  ** Português (falado e escrito)
   * Francês (falado e escrito)
   * Inglês técnivo (noções básicas)
 
