@@ -8,13 +8,17 @@
 ## Formação e Educação:
 
 - Formado em Engenharia Informática**
-  - Licenciado - 2014 a 2017, no Instituto Superior Politécnico do Cazenga (ISPOCA) em Luanda-Angola
+  - Licenciado - 2022, no Instituto Superior Politécnico do Cazenga (ISPOCA) em Luanda-Angola
 
-- **Desenvolvedor Front-End**
-  - Escola DNC em Brasil - 2024 a 2025
+- **Front-End Development**
+  - Escola DNC em Brasil
+ 
+ - **Especialista em FullStack Web Development**
+  - Centro Formativo MASTER.D Lisboa - Portugal
 
 - **Técnico de Rede de computadores**
     - Curso de CCNA no Instituto de Telecomunicações (ITEL) Angola
+    - Rede de computador e Gestão de Sistemas no Instituto de Telecomunicções (ITEL) Angola
     - Curso de Cabeamento Estruturado no CINFOTEC Angola
     - Curso básico de LINUX e CLOUD em Brasil online
 
