@@ -11,10 +11,10 @@
   - Licenciado - 2022, no Instituto Superior Politécnico do Cazenga (ISPOCA) em Luanda-Angola
 
 - **Front-End Development**
-  - Escola DNC em Brasil
+   - Escola DNC em Brasil
  
  - **Especialista em FullStack Web Development**
-  - Centro Formativo MASTER.D Lisboa - Portugal
+    - Centro Formativo MASTER.D Lisboa - Portugal
 
 - **Técnico de Rede de computadores**
     - Curso de CCNA no Instituto de Telecomunicações (ITEL) Angola
