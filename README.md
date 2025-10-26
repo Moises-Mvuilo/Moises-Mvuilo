@@ -14,7 +14,7 @@
    - Escola DNC em Brasil
  
  - **Especialista em FullStack Web Development**
-    - Centro de Formação profissional MASTER.D Lisboa - Portugal
+    - Centro de Formação profissional MASTER.D - Portugal
 
 - **Técnico de Rede de computadores**
     - Rede Cisco CCNA R&S no Instituto de Telecomunicações (ITEL) Angola
